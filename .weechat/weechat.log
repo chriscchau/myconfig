@@ -1,0 +1,26 @@
+[2018-07-12 12:57:52] WeeChat 2.1 (compiled on Mar 18 2018 22:29:56)
+[2018-07-12 12:57:52] Reading configuration file sec.conf
+[2018-07-12 12:57:52] Reading configuration file weechat.conf
+[2018-07-12 12:57:52] Reading configuration file plugins.conf
+[2018-07-12 12:57:52] Reading configuration file charset.conf
+[2018-07-12 12:57:52] Reading configuration file logger.conf
+[2018-07-12 12:57:52] Reading configuration file exec.conf
+[2018-07-12 12:57:52] Reading configuration file trigger.conf
+[2018-07-12 12:57:52] Reading configuration file aspell.conf
+[2018-07-12 12:57:52] Reading configuration file alias.conf
+[2018-07-12 12:57:52] Reading configuration file buflist.conf
+[2018-07-12 12:57:52] Reading configuration file fifo.conf
+[2018-07-12 12:57:52] Reading configuration file xfer.conf
+[2018-07-12 12:57:52] Reading configuration file irc.conf
+[2018-07-12 12:57:52] Reading configuration file relay.conf
+[2018-07-12 12:57:52] Reading configuration file python.conf
+[2018-07-12 12:57:52] Reading configuration file lua.conf
+[2018-07-12 12:57:52] Reading configuration file perl.conf
+[2018-07-12 12:57:52] Reading configuration file script.conf
+[2018-07-12 12:57:52] Reading configuration file fset.conf
+[2018-07-12 12:59:16] Writing configuration file colorize_nicks.conf (default options)
+[2018-07-12 12:59:16] Reading configuration file colorize_nicks.conf
+[2018-07-12 12:59:18] Writing configuration file autosort.conf (default options)
+[2018-07-12 12:59:18] Reading configuration file autosort.conf
+[2018-07-12 12:59:18] Writing configuration file autosort.conf
+[2018-07-12 13:00:02] irc: connecting to server ix1.undernet.org/6667...

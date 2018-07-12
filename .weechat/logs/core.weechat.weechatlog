@@ -1,0 +1,48 @@
+2018-07-12 12:30:51		New key binding (context "default"): meta-meta-OQ => /bar scroll buflist * e
+2018-07-12 12:30:51		New key binding (context "default"): meta-meta-OP => /bar scroll buflist * b
+2018-07-12 12:30:51		New key binding (context "default"): meta-OQ => /bar scroll buflist * +100%
+2018-07-12 12:30:51		New key binding (context "default"): meta-OP => /bar scroll buflist * -100%
+2018-07-12 12:30:51		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, script, trigger, xfer
+2018-07-12 12:32:45	=!=	Too few arguments for command "/server add" (help on command: /help server)
+2018-07-12 12:32:58		irc: server un1 added
+2018-07-12 12:33:07		irc: server un2 added
+2018-07-12 12:35:12		Option changed: weechat.color.chat_nick_colors = "red,lightred,162,167,204,green,lightgreen,035,042,047,084,120,154,148,yellow,brown,165,191,222,208,cyan,045,051,087,117,123,159,lightmagenta,128,171,176,213,111,148"  (default: "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue")
+2018-07-12 12:35:36		Option changed: weechat.bar.status.color_bg = 0  (default: blue)
+2018-07-12 12:35:56		Option changed: weechat.bar.title.color_bg = 0  (default: blue)
+2018-07-12 12:36:13	=!=	Error: option "buffers.color.current_bg" not found
+2018-07-12 12:49:32		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, script, trigger, xfer
+2018-07-12 12:50:56		Option changed: weechat.color.chat_nick_colors = "1,2,3,4,5,6"  (default: "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue")
+2018-07-12 12:51:14		Option changed: weechat.color.chat_highlight = 7  (default: yellow)
+2018-07-12 12:51:31		Option changed: buflist.format.hotlist_message = "${color:7}"  (default: "${color:brown}")
+2018-07-12 12:51:54		Option changed: buflist.format.buffer_current = "${color:,7}${format_buffer}"  (default: "${color:,blue}${format_buffer}")
+2018-07-12 12:53:31		Option changed: weechat.bar.buflist.position = top  (default: left)
+2018-07-12 12:53:49		Option changed: weechat.bar.buflist.items = "buflist"  (default: "")
+2018-07-12 12:54:19		Option changed: weechat.look.prefix_same_nick = "⤷"  (default: "")
+2018-07-12 12:54:40		Option changed: weechat.look.prefix_error = "⚠"  (default: "=!=")
+2018-07-12 12:55:03		Option changed: weechat.look.prefix_network = "ℹ "  (default: "--")
+2018-07-12 12:55:20		Option changed: weechat.look.prefix_action = "⚡"  (default: " *")
+2018-07-12 12:55:36		Option changed: weechat.look.bar_more_down = "▼▼"  (default: "++")
+2018-07-12 12:55:54		Option changed: weechat.look.bar_more_left = "◀◀"  (default: "<<")
+2018-07-12 12:56:09		Option changed: weechat.look.bar_more_right = "▶▶"  (default: ">>")
+2018-07-12 12:56:22		Option changed: weechat.look.bar_more_up = "▲▲"  (default: "--")
+2018-07-12 12:56:35		Option changed: weechat.look.prefix_suffix = "╡"  (default: "|")
+2018-07-12 12:56:57		Option changed: weechat.look.buffer_time_format = "${253}%H${245}%M"  (default: "%H:%M:%S")
+2018-07-12 12:57:32		Option changed: weechat.look.buffer_time_format = "${253}%H:${245}%M"  (default: "%H:%M:%S")
+2018-07-12 12:57:52		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, script, trigger, xfer
+2018-07-12 12:59:09		script: downloading list of scripts...
+2018-07-12 12:59:11		script: 347 scripts for WeeChat 2.1
+2018-07-12 12:59:12		perl: loading script "/home/chris/.weechat/perl/perlexec.pl"
+2018-07-12 12:59:12		perl: registered script "perlexec", version 0.1 (Execute perl code)
+2018-07-12 12:59:13		python: loading script "/home/chris/.weechat/python/buffer_autoclose.py"
+2018-07-12 12:59:14		python: registered script "buffer_autoclose", version 0.5 (Automatically close inactive private message buffers)
+2018-07-12 12:59:15		python: loading script "/home/chris/.weechat/python/go.py"
+2018-07-12 12:59:15		python: registered script "go", version 2.5 (Quick jump to buffers)
+2018-07-12 12:59:16		python: loading script "/home/chris/.weechat/python/colorize_nicks.py"
+2018-07-12 12:59:16		python: registered script "colorize_nicks", version 26 (Use the weechat nick colors in the chat area)
+2018-07-12 12:59:17		python: loading script "/home/chris/.weechat/python/autosort.py"
+2018-07-12 12:59:18		python: registered script "autosort", version 3.3 (Flexible automatic (or manual) buffer sorting based on eval expressions.)
+2018-07-12 12:59:19		python: loading script "/home/chris/.weechat/python/zerotab.py"
+2018-07-12 12:59:19		python: registered script "zerotab", version 1.5 (Will tab complete the last nick in channel without typing anything first. This is good for rapid conversations.)
+2018-07-12 12:59:20		python: loading script "/home/chris/.weechat/python/urlserver.py"
+2018-07-12 12:59:20		python: registered script "urlserver", version 2.2 (Shorten URLs with own HTTP server)
+2018-07-12 12:59:20		URL server listening on ('127.0.1.1', 35449)
