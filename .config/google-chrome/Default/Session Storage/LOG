@@ -1,0 +1,15 @@
+2018/07/12-12:49:57.957 16020 Reusing MANIFEST /home/chris/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2018/07/12-12:49:57.958 16020 Recovering log #10
+2018/07/12-12:49:57.958 16020 Reusing old log /home/chris/.config/google-chrome/Default/Session Storage/000010.log 
+2018/07/12-13:03:11.358 20017 Compacting 1@1 + 1@2 files
+2018/07/12-13:03:11.368 20017 Generated table #13@1: 104 keys, 4022 bytes
+2018/07/12-13:03:11.368 20017 Compacted 1@1 + 1@2 files => 4022 bytes
+2018/07/12-13:03:11.388 20017 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/07/12-13:03:11.388 20017 Delete type=2 #9
+2018/07/12-13:03:11.388 20017 Delete type=2 #11
+2018/07/12-13:04:17.089 20017 Level-0 table #15: started
+2018/07/12-13:04:17.102 20017 Level-0 table #15: 18134 bytes OK
+2018/07/12-13:04:17.125 20017 Delete type=0 #10
+2018/07/12-13:12:25.938 20017 Level-0 table #17: started
+2018/07/12-13:12:25.953 20017 Level-0 table #17: 22525 bytes OK
+2018/07/12-13:12:25.971 20017 Delete type=0 #14

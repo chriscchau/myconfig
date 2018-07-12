@@ -1,0 +1,74 @@
+{
+   "clearHistory": {
+      "message": "Verlauf leeren"
+   },
+   "copyright1": {
+      "description": "do not translate it",
+      "message": "Wikipedia and logo of Wikipedia are trademarks of Wikimedia Foundation, Inc."
+   },
+   "copyright2": {
+      "description": "do not translate it",
+      "message": "Usage of all Wikipedia content governed by term and conditions of Wikimedia Foundation, Inc."
+   },
+   "copyright3": {
+      "description": "do not translate it",
+      "message": "Extension created by mongolian2010. All rights reserved."
+   },
+   "extDescription": {
+      "message": "Wesentliche Erweiterung für alle Wikipedia-Nutzer. Speichert Ihren letzten Wiki-Abfragen, mehrsprachig, vor / zurück und mehr!"
+   },
+   "extName": {
+      "message": "Lookup Companion for Wikipedia"
+   },
+   "goBack": {
+      "message": "Go Back"
+   },
+   "goForward": {
+      "message": "Go Forward"
+   },
+   "language": {
+      "message": "Sprache"
+   },
+   "normal": {
+      "message": "Normal"
+   },
+   "openInTab": {
+      "message": "Öffnen Sie im Tab"
+   },
+   "optionLanguageHints": {
+      "message": "Neue Sprache Option in Ihre nächste Suche in Kraft."
+   },
+   "optionShowFeatureArticle": {
+      "message": "Show vorgestellten Artikel an Start-up-(nur in bestimmten Sprachen Wikipedia)"
+   },
+   "optionTitle": {
+      "message": "Wikipedia für Chrome - Optionen"
+   },
+   "options": {
+      "message": "Optionen"
+   },
+   "pageWidth": {
+      "message": "Popup Window Width"
+   },
+   "primaryLanguage": {
+      "message": "Primary Language"
+   },
+   "save": {
+      "message": "Speichern"
+   },
+   "search": {
+      "message": "Suchen"
+   },
+   "secondaryLanguage": {
+      "message": "Secondary Language"
+   },
+   "updateMessage": {
+      "message": "Wikipedia Companion ist auf $1 aktualisiert! Klicken Sie hier für weitere Informationen"
+   },
+   "welcomeMessage": {
+      "message": "Willkommen bei Wikipedia Companion"
+   },
+   "wide": {
+      "message": "Wide"
+   }
+}

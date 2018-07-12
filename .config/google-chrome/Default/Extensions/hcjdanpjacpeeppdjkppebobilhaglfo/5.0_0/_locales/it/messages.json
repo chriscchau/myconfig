@@ -1,0 +1,42 @@
+{
+   "ex_description": {
+      "description": "Description of the extension",
+      "message": "Inserisce immagini di anteprima nei risultati delle ricerche su Google e Yahoo."
+   },
+   "ex_insert_previews": {
+      "description": "Label for previews checkbox",
+      "message": "Inserisci immagini di anteprima nei risultati delle ricerche su Google e Yahoo"
+   },
+   "ex_insert_ranks": {
+      "description": "Label for popularity ranks checkbox",
+      "message": "Visualizza il PageRank nei risultati delle ricerche: ("
+   },
+   "ex_insert_ranks_sec": {
+      "description": "Second part of label for popularity ranks checkbox",
+      "message": " .. "
+   },
+   "ex_loadingRank": {
+      "description": "Label for loading rank",
+      "message": "Caricamento PageRank in corso..."
+   },
+   "ex_name": {
+      "description": "Name of the extension",
+      "message": "SearchPreview"
+   },
+   "ex_noRank": {
+      "description": "no.site.rank",
+      "message": "PageRank non disponibile"
+   },
+   "ex_options": {
+      "description": "Options label",
+      "message": "Opzioni"
+   },
+   "ex_rank": {
+      "description": "Label for rank",
+      "message": "PageRank del sito"
+   },
+   "ex_requestupdate": {
+      "description": "Context menu label for requesting an update of a preview image",
+      "message": "Richiedi aggiornamento per questa immagine di anteprima"
+   }
+}

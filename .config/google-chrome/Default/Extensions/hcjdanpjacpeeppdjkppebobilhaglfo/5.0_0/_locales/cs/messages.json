@@ -1,0 +1,42 @@
+{
+   "ex_description": {
+      "description": "Description of the extension",
+      "message": "Přidává k výsledkům vyhledávání na Google a Yahoo! náhledy stránek."
+   },
+   "ex_insert_previews": {
+      "description": "Label for previews checkbox",
+      "message": "Přidat náhled stránek k výsledkům vyhledávání na Google a Yahoo!"
+   },
+   "ex_insert_ranks": {
+      "description": "Label for popularity ranks checkbox",
+      "message": "Přidat do výsledků vyhledávání hodnocení popularity webů: ("
+   },
+   "ex_insert_ranks_sec": {
+      "description": "Second part of label for popularity ranks checkbox",
+      "message": " .. "
+   },
+   "ex_loadingRank": {
+      "description": "Label for loading rank",
+      "message": "Načítám hodnocení popularity..."
+   },
+   "ex_name": {
+      "description": "Name of the extension",
+      "message": "SearchPreview"
+   },
+   "ex_noRank": {
+      "description": "no.site.rank",
+      "message": "Žádné hodnocení"
+   },
+   "ex_options": {
+      "description": "Options label",
+      "message": "Možnosti"
+   },
+   "ex_rank": {
+      "description": "Label for rank",
+      "message": "Popularita webu"
+   },
+   "ex_requestupdate": {
+      "description": "Context menu label for requesting an update of a preview image",
+      "message": "Vyžádat aktualizaci tohoto obrázku SearchPreview"
+   }
+}

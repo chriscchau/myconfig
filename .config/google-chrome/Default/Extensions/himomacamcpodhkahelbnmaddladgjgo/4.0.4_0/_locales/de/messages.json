@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Googles Integriertes gemeinschaftliches Projektmanagement für das Erstellen/Bearbeiten von Projektplänen und Balkendiagrammen in Echtzeit (MS Project .MPP)"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Gantter Projektmanagement"
+   }
+}

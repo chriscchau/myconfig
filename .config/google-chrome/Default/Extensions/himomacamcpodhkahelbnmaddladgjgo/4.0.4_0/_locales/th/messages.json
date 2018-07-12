@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "โปรแกรมบริหารโครงการร่วมกันแบบองค์รวมของ Google เพื่อสร้างสรรค์/แก้ไขตารางเวลาของโครงการและแผนภูมิแกนต์ตามเวลาจริง (MS Project .MPP)"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "โปรแกรมบริหารโครงการ Gantter"
+   }
+}

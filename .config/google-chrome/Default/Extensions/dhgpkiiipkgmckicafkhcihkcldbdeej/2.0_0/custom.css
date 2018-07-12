@@ -1,0 +1,10 @@
+/*Custom styles*/
+
+#mw-mf-header, #footer, .content_block, .section_anchors {
+     display:none;
+}
+.section_heading{
+    cursor: pointer;
+}
+
+

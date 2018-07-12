@@ -1,0 +1,29 @@
+{
+   "api_console_project_id": "549517827371",
+   "app": {
+      "launch": {
+         "web_url": "https://google.gantter.com/gad/drive"
+      },
+      "urls": [ "https://google.gantter.com/gad/drive" ]
+   },
+   "container": [ "GOOGLE_DRIVE" ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "gdrive_mime_types": {
+      "http://drive.google.com/intents/opendrivedoc": [ {
+         "disposition": "window",
+         "href": "https://google.gantter.com/gad/drive",
+         "title": "Open",
+         "type": [ "text/gantterproject", "vnd.google.drive.ext-type.mpp", "application/vnd.ms-project", "vnd.google.drive.ext-type.gantter" ]
+      } ]
+   },
+   "icons": {
+      "128": "icon.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC84WPcdvVGfIEKNgMQME0RcL8bkddEYE8hcn48R9QCODmwUFkWuNFaF+Sj20R1CYsdhtHzMaA94aV2QMFf3SQldpMJafvlJqL1xjlGIa9q4gpVkXSgfYO05/MLYPjrwIv5rgIZaECV9Zz4beYRe+QNunkCCZAkjUC9gLiiNl1k5wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "short_name": "Gantter",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.0.4"
+}

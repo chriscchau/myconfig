@@ -1,0 +1,42 @@
+{
+   "ex_description": {
+      "description": "Description of the extension",
+      "message": "Vkladá náhľad stránok k výsledkom nájdených pomocou Google a Yahoo"
+   },
+   "ex_insert_previews": {
+      "description": "Label for previews checkbox",
+      "message": "Vložiť náhľad stránok k výsledkom nájdených pomocou Google a Yahoo"
+   },
+   "ex_insert_ranks": {
+      "description": "Label for popularity ranks checkbox",
+      "message": "Vložiť hodnotenie popularity stránky do výsledkov hľadania: ("
+   },
+   "ex_insert_ranks_sec": {
+      "description": "Second part of label for popularity ranks checkbox",
+      "message": " .. "
+   },
+   "ex_loadingRank": {
+      "description": "Label for loading rank",
+      "message": "Načítava sa hodnotenie popularity stránky..."
+   },
+   "ex_name": {
+      "description": "Name of the extension",
+      "message": "SearchPreview"
+   },
+   "ex_noRank": {
+      "description": "no.site.rank",
+      "message": "Žiadne hodnotenie popularity"
+   },
+   "ex_options": {
+      "description": "Options label",
+      "message": "Možnosti"
+   },
+   "ex_rank": {
+      "description": "Label for rank",
+      "message": "Hodnotenie popularity stránky"
+   },
+   "ex_requestupdate": {
+      "description": "Context menu label for requesting an update of a preview image",
+      "message": "Požiadať o aktualizáciu tohto obrázka náhľadu"
+   }
+}

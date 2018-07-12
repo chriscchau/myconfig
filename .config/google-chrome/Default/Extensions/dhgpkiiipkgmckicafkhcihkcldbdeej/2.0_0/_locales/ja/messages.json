@@ -1,0 +1,74 @@
+{
+   "clearHistory": {
+      "message": "履歴のクリア"
+   },
+   "copyright1": {
+      "description": "do not translate it",
+      "message": "Wikipedia and logo of Wikipedia are trademarks of Wikimedia Foundation, Inc."
+   },
+   "copyright2": {
+      "description": "do not translate it",
+      "message": "Usage of all Wikipedia content governed by term and conditions of Wikimedia Foundation, Inc."
+   },
+   "copyright3": {
+      "description": "do not translate it",
+      "message": "Extension created by mongolian2010. All rights reserved."
+   },
+   "extDescription": {
+      "message": "任意の項目のユーザーのための基本拡張子フル機能：あなたの最近のwikiのルックアップ、マルチ、バック多言語/今後ますます節約！"
+   },
+   "extName": {
+      "message": "Lookup Companion for Wikipedia"
+   },
+   "goBack": {
+      "message": "戻る"
+   },
+   "goForward": {
+      "message": "次の"
+   },
+   "language": {
+      "message": "言語"
+   },
+   "normal": {
+      "message": "Normal"
+   },
+   "openInTab": {
+      "message": "タブで開く"
+   },
+   "optionLanguageHints": {
+      "message": "新しい言語のオプションを次の検索に有効です。"
+   },
+   "optionShowFeatureArticle": {
+      "message": "を表示する特集記事使用可能 （にのみ、特定の項目の言語でも）"
+   },
+   "optionTitle": {
+      "message": "ウィキペディア Chrome 用 - [オプション]"
+   },
+   "options": {
+      "message": "オプション"
+   },
+   "pageWidth": {
+      "message": "Popup Window Width"
+   },
+   "primaryLanguage": {
+      "message": "主要言語"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "search": {
+      "message": "検索"
+   },
+   "secondaryLanguage": {
+      "message": "第二言語"
+   },
+   "updateMessage": {
+      "message": "Wikipedia Companion に更新されます $1！詳細情報はここをクリック"
+   },
+   "welcomeMessage": {
+      "message": "へようこそ Wikipedia Companion"
+   },
+   "wide": {
+      "message": "Wide"
+   }
+}

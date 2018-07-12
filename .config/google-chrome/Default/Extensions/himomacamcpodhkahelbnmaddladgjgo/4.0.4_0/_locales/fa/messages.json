@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "مدیریت پروژه همکارانه یکپارچه گوگل برای ایجاد/ویرایش برنامه‌های زمان‌بندی پروژه و نمودارهای گانت به صورت آنی (.mpp مایکروسافت پروجکت)"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "مدیریت پروژه گانتر (Gantter)"
+   }
+}

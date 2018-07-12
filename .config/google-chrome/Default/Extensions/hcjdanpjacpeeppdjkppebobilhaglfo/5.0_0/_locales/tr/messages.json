@@ -1,0 +1,42 @@
+{
+   "ex_description": {
+      "description": "Description of the extension",
+      "message": "Bu eklenti Google ve Yahoo arama sonuçlarına sayfaların önizlemelerini ekler."
+   },
+   "ex_insert_previews": {
+      "description": "Label for previews checkbox",
+      "message": "Google ve Yahoo aramalarındaa önizleme resmi göster"
+   },
+   "ex_insert_ranks": {
+      "description": "Label for popularity ranks checkbox",
+      "message": "Arama sonuçlarında site popülerlik bilgisini göster: ("
+   },
+   "ex_insert_ranks_sec": {
+      "description": "Second part of label for popularity ranks checkbox",
+      "message": " .. "
+   },
+   "ex_loadingRank": {
+      "description": "Label for loading rank",
+      "message": "Popülerlik bilgisi yükleniyor..."
+   },
+   "ex_name": {
+      "description": "Name of the extension",
+      "message": "SearchPreview"
+   },
+   "ex_noRank": {
+      "description": "no.site.rank",
+      "message": "Popülerlik bilgisi yok"
+   },
+   "ex_options": {
+      "description": "Options label",
+      "message": "Seçenekler"
+   },
+   "ex_rank": {
+      "description": "Label for rank",
+      "message": "Site popülerliği"
+   },
+   "ex_requestupdate": {
+      "description": "Context menu label for requesting an update of a preview image",
+      "message": "Bu SearchPreview görüntüsü için güncelleme iste"
+   }
+}

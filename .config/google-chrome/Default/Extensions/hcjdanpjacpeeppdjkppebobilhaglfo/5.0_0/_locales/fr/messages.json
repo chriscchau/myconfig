@@ -1,0 +1,42 @@
+{
+   "ex_description": {
+      "description": "Description of the extension",
+      "message": "Insère une miniature des sites correspondants aux recherches dans Google et Yahoo (pour certains sites)."
+   },
+   "ex_insert_previews": {
+      "description": "Label for previews checkbox",
+      "message": "Insérer une miniature dans les résultats de recherche de Google et Yahoo"
+   },
+   "ex_insert_ranks": {
+      "description": "Label for popularity ranks checkbox",
+      "message": "Insérer l'indice de popularité du site dans les résultats de recherche ("
+   },
+   "ex_insert_ranks_sec": {
+      "description": "Second part of label for popularity ranks checkbox",
+      "message": " .. "
+   },
+   "ex_loadingRank": {
+      "description": "Label for loading rank",
+      "message": "Chargement de l'indice de popularité du site..."
+   },
+   "ex_name": {
+      "description": "Name of the extension",
+      "message": "SearchPreview"
+   },
+   "ex_noRank": {
+      "description": "no.site.rank",
+      "message": "Aucun indice de popularité"
+   },
+   "ex_options": {
+      "description": "Options label",
+      "message": "Préférences"
+   },
+   "ex_rank": {
+      "description": "Label for rank",
+      "message": "Indice de popularité du site"
+   },
+   "ex_requestupdate": {
+      "description": "Context menu label for requesting an update of a preview image",
+      "message": "Mettre à jour cette miniature"
+   }
+}

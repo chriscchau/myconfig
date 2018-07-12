@@ -1,0 +1,42 @@
+{
+   "ex_description": {
+      "description": "Description of the extension",
+      "message": "গুগল এবং য়াহু অনুসন্ধান ফলাফলের মধ্যে আন্তর্জালস্থানর প্রাকদর্শন নিবেশ করে।"
+   },
+   "ex_insert_previews": {
+      "description": "Label for previews checkbox",
+      "message": "প্রাকদর্শীয় চিত্রগুলি গুগল এবং য়াহু অনুসন্ধানে নিবেশণ"
+   },
+   "ex_insert_ranks": {
+      "description": "Label for popularity ranks checkbox",
+      "message": "অনুসন্ধান ফলাফলে আন্তর্জালস্থানের জনপ্রিয়তা স্থানগুলির নিবেশণ: ("
+   },
+   "ex_insert_ranks_sec": {
+      "description": "Second part of label for popularity ranks checkbox",
+      "message": " .. "
+   },
+   "ex_loadingRank": {
+      "description": "Label for loading rank",
+      "message": "আন্তর্জালস্থান জনপ্রিয়তা পদস্থানের ভরণ হচ্ছে..."
+   },
+   "ex_name": {
+      "description": "Name of the extension",
+      "message": "SearchPreview"
+   },
+   "ex_noRank": {
+      "description": "no.site.rank",
+      "message": "জনপ্রিয়তা পদস্থান নেই"
+   },
+   "ex_options": {
+      "description": "Options label",
+      "message": "বিকল্পগুলি"
+   },
+   "ex_rank": {
+      "description": "Label for rank",
+      "message": "আন্তর্জালস্থান জনপ্রিয়তা পদস্থান"
+   },
+   "ex_requestupdate": {
+      "description": "Context menu label for requesting an update of a preview image",
+      "message": "এই গুগলপ্রাকদর্শীয় চিত্রটির আধুনিকীকরণের অনুরোধ"
+   }
+}

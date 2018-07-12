@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Google Integrated Collaborative Project Management til at oprette/redigere projektplaner og gantt-diagrammer i realtid (MS Project .MPP)"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Gantter-projektledelse"
+   }
+}

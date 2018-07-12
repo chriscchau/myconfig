@@ -1,0 +1,21 @@
+{
+   "api_console_project_id": "239809046330",
+   "app": {
+      "launch": {
+         "web_url": "https://cacoo.com/signin?ref=chrome"
+      },
+      "urls": [  ]
+   },
+   "container": "GOOGLE_DRIVE",
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCyT5/R8y81ndvl0CjitOCckg61L0DPlNhtQhyuWg1nPM6ITm/VOfUxCWZvTEDqUNNcGczyFlkKH6dVyGI5R+FxDU4t88XMGaht43VpueHhS8lDmU1iHyzw8ibaFdTucK/tUKavK88kHts0RILbeRTRN3tE96sxFSQusQGlOc5U8QIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "permissions": [  ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3.0"
+}

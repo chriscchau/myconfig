@@ -1,0 +1,42 @@
+{
+   "ex_description": {
+      "description": "Description of the extension",
+      "message": "Wstawia podgląd stron w wynikach wyszukiwania w Google i Yahoo."
+   },
+   "ex_insert_previews": {
+      "description": "Label for previews checkbox",
+      "message": "Wstawiaj obrazki podglądu w wynikach wyszukiwania Google i Yahoo"
+   },
+   "ex_insert_ranks": {
+      "description": "Label for popularity ranks checkbox",
+      "message": "Wstawiaj oceny popularności stron w wynikach wyszukiwania ("
+   },
+   "ex_insert_ranks_sec": {
+      "description": "Second part of label for popularity ranks checkbox",
+      "message": " .. "
+   },
+   "ex_loadingRank": {
+      "description": "Label for loading rank",
+      "message": "Pobieranie oceny popularności strony..."
+   },
+   "ex_name": {
+      "description": "Name of the extension",
+      "message": "SearchPreview"
+   },
+   "ex_noRank": {
+      "description": "no.site.rank",
+      "message": "Brak oceny popularności"
+   },
+   "ex_options": {
+      "description": "Options label",
+      "message": "Opcje"
+   },
+   "ex_rank": {
+      "description": "Label for rank",
+      "message": "Ocena popularności strony"
+   },
+   "ex_requestupdate": {
+      "description": "Context menu label for requesting an update of a preview image",
+      "message": "Poproś o aktualizację tego podglądu SearchPreview"
+   }
+}

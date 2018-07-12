@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Správa spolupráce na projektech integrovaná s produkty Google pro tvorbu a úpravu projektových plánů a Ganttových diagramů v reálném čase (MS Project .MPP)"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Správa projektů Gantter"
+   }
+}

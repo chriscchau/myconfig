@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Корпоративна система управління проектами, інтегрована з Google, призначена для створення та редагування графіків проектів і календарних графіків виконання робіт у режимі реального часу (з підтримкою файлів програми управління проектами MS Project .MPP)"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Система управління проектами Gantter"
+   }
+}

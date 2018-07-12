@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Google Geïntegreerde Team Project Management om projectschema's en Gantt-diagrammen in realtime te maken / bewerken (MS Project .MPP)"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Gantter Project Management"
+   }
+}

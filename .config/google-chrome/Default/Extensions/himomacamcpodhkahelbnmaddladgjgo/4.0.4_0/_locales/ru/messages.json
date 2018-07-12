@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Решение по совместному управлению проектами, интегрированное с Google, для создания и редактирования графиков проектов и диаграмм Ганта в реальном времени (поддержка MPP-файлов Microsoft Project)"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Gantter для управления проектами"
+   }
+}

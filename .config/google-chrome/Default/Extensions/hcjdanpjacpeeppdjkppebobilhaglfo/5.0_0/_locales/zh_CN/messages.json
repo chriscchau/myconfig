@@ -1,0 +1,42 @@
+{
+   "ex_description": {
+      "description": "Description of the extension",
+      "message": "在 google 和 yahoo 搜索结果页面插入目标网站预览图像。"
+   },
+   "ex_insert_previews": {
+      "description": "Label for previews checkbox",
+      "message": "在 Google 和 Yahoo 搜索插入预览图像"
+   },
+   "ex_insert_ranks": {
+      "description": "Label for popularity ranks checkbox",
+      "message": "将站点流行度排名插入搜索结果： ("
+   },
+   "ex_insert_ranks_sec": {
+      "description": "Second part of label for popularity ranks checkbox",
+      "message": " .. "
+   },
+   "ex_loadingRank": {
+      "description": "Label for loading rank",
+      "message": "正在加载网站流行度排名..."
+   },
+   "ex_name": {
+      "description": "Name of the extension",
+      "message": "SearchPreview"
+   },
+   "ex_noRank": {
+      "description": "no.site.rank",
+      "message": "无流行度排名"
+   },
+   "ex_options": {
+      "description": "Options label",
+      "message": "选项"
+   },
+   "ex_rank": {
+      "description": "Label for rank",
+      "message": "网站流行度排名"
+   },
+   "ex_requestupdate": {
+      "description": "Context menu label for requesting an update of a preview image",
+      "message": "请求更新该 SearchPreview 图片"
+   }
+}

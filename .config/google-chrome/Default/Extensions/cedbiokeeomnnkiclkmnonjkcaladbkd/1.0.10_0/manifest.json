@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://app.organisedminds.com/"
+      },
+      "urls": [ "https://app.organisedminds.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_application_description__",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDUVfYwbTC2ggG9CFV3cQ16wDLrVbdSrv7dg3aRXIebOvKur4Vu76X4jCL6AMLZPlxhAdZiKi3utzcFZC7tyiXlINTRUoLJJOoJJpZznJNXA0soZp7YXFV7HCofUCvQOM7l2hauDjfArhEt7e2e9tEBPOjZSSWY/UidvvjES0k8BQIDAQAB",
+   "name": "__MSG_application_title__",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.10"
+}

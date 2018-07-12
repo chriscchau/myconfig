@@ -1,0 +1,42 @@
+{
+   "ex_description": {
+      "description": "Description of the extension",
+      "message": "Mostra uma pré-visualização dos sites, nos resultados das pesquisas no Google e Yahoo."
+   },
+   "ex_insert_previews": {
+      "description": "Label for previews checkbox",
+      "message": "Mostra uma imagem de pré-visualização das pesquisas no Google e Yahoo"
+   },
+   "ex_insert_ranks": {
+      "description": "Label for popularity ranks checkbox",
+      "message": "Inserir a popularidade dos sites nos resultados das pesquisas: ("
+   },
+   "ex_insert_ranks_sec": {
+      "description": "Second part of label for popularity ranks checkbox",
+      "message": " .. "
+   },
+   "ex_loadingRank": {
+      "description": "Label for loading rank",
+      "message": "A carregar o ranking de popularidade dos sites"
+   },
+   "ex_name": {
+      "description": "Name of the extension",
+      "message": "SearchPreview"
+   },
+   "ex_noRank": {
+      "description": "no.site.rank",
+      "message": "Não existe um ranking de popularidade"
+   },
+   "ex_options": {
+      "description": "Options label",
+      "message": "Opções"
+   },
+   "ex_rank": {
+      "description": "Label for rank",
+      "message": "Ranking de popularidade dos sites."
+   },
+   "ex_requestupdate": {
+      "description": "Context menu label for requesting an update of a preview image",
+      "message": "Pedir actualização desta imagem"
+   }
+}

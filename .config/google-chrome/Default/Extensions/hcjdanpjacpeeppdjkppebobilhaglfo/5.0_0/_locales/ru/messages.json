@@ -1,0 +1,42 @@
+{
+   "ex_description": {
+      "description": "Description of the extension",
+      "message": "Вставить картинки предпросмотра в результаты поиска Google и Yahoo."
+   },
+   "ex_insert_previews": {
+      "description": "Label for previews checkbox",
+      "message": "Вставить картинки предпросмотра в результаты поиска Google и Yahoo"
+   },
+   "ex_insert_ranks": {
+      "description": "Label for popularity ranks checkbox",
+      "message": "Вставить индекс популярности сайта в результаты поиска: ("
+   },
+   "ex_insert_ranks_sec": {
+      "description": "Second part of label for popularity ranks checkbox",
+      "message": " .. "
+   },
+   "ex_loadingRank": {
+      "description": "Label for loading rank",
+      "message": "Загрузка индекса популярности сайта..."
+   },
+   "ex_name": {
+      "description": "Name of the extension",
+      "message": "SearchPreview"
+   },
+   "ex_noRank": {
+      "description": "no.site.rank",
+      "message": "Нет данных о индексе популярности сайта."
+   },
+   "ex_options": {
+      "description": "Options label",
+      "message": "Опции"
+   },
+   "ex_rank": {
+      "description": "Label for rank",
+      "message": "Индекс популярности сайта."
+   },
+   "ex_requestupdate": {
+      "description": "Context menu label for requesting an update of a preview image",
+      "message": "Запросить обновление этой картинки SearchPreview"
+   }
+}

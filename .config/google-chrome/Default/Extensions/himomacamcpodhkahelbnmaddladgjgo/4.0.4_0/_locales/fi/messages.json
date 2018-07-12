@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Google Integrated Collaborative Project Management  (Googleen integroitu vuorovaikutuksellinen projektinhallinta projektiaikataulujen ja Gantt-kaavioiden luomiseksi/muokkaamiseksi reaaliajassa (MS Project MPP)."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Gantter Project Management"
+   }
+}

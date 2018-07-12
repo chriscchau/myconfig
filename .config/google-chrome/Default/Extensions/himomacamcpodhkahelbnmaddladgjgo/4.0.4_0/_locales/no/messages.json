@@ -1,0 +1,10 @@
+﻿{
+  "appName": {
+    "message": "Gantter prosjekthandtering",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Google-integrert kollaborativ prosjekthandtering for å laga/endra prosjekt sine tidsplanar og gantt-skjema i sanntid (MS Project .MPP)", 
+    "description":"The description of the application, displayed in the web store."
+  }
+}

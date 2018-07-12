@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "GoogleIntegrerad Gemensam Projektledning för att skapa/editera projektschema & ganttdiagram i realtid (MS Project .MPP)"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Gantter ProjektLedning"
+   }
+}

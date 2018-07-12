@@ -1,0 +1,42 @@
+{
+   "ex_description": {
+      "description": "Description of the extension",
+      "message": "Google과 Yahoo 검색 결과에 웹 사이트 미리 보기를 추가합니다."
+   },
+   "ex_insert_previews": {
+      "description": "Label for previews checkbox",
+      "message": "Google과 Yahoo 검색 결과에 미리 보기 이미지를 추가함"
+   },
+   "ex_insert_ranks": {
+      "description": "Label for popularity ranks checkbox",
+      "message": "검색 결과에 사이트 인기 순위를 추가함: ("
+   },
+   "ex_insert_ranks_sec": {
+      "description": "Second part of label for popularity ranks checkbox",
+      "message": " .. "
+   },
+   "ex_loadingRank": {
+      "description": "Label for loading rank",
+      "message": "사이트 인기 순위 불러오는 중..."
+   },
+   "ex_name": {
+      "description": "Name of the extension",
+      "message": "SearchPreview"
+   },
+   "ex_noRank": {
+      "description": "no.site.rank",
+      "message": "인기 순위 표시 안함"
+   },
+   "ex_options": {
+      "description": "Options label",
+      "message": "환경 설정"
+   },
+   "ex_rank": {
+      "description": "Label for rank",
+      "message": "사이트 인기 순위"
+   },
+   "ex_requestupdate": {
+      "description": "Context menu label for requesting an update of a preview image",
+      "message": "해당 SearchPreview 이미지에 대한 업데이트를 요청"
+   }
+}

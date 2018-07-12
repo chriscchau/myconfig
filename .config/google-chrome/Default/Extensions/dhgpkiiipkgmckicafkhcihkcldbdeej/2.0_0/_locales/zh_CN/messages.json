@@ -1,0 +1,82 @@
+{
+   "_gen": {
+      "description": "Editor",
+      "message": "Localizer, http://www.mixesoft.com/localizer.html"
+   },
+   "_inf": {
+      "description": "Author",
+      "message": "Dean Lee \u003Cxslidian@gmail.com>"
+   },
+   "clearHistory": {
+      "message": "清除查询历史"
+   },
+   "copyright1": {
+      "description": "不用翻译",
+      "message": "维基百科和维基百科标志是维基媒体基金会的注册商标"
+   },
+   "copyright2": {
+      "description": "不用翻译",
+      "message": "所有对维基百科内容的使用受维基媒体基金会条款和条件的控制"
+   },
+   "copyright3": {
+      "description": "不用翻译",
+      "message": "扩展作者为 mongolian2010。保留所有权利。"
+   },
+   "extDescription": {
+      "message": "维基百科用户必备扩展。功能全面：保存您最近的维基查询记录，多语种，后退/前进等等！"
+   },
+   "extName": {
+      "message": "Lookup Companion for Wikipedia"
+   },
+   "goBack": {
+      "message": "返回"
+   },
+   "goForward": {
+      "message": "前进"
+   },
+   "language": {
+      "message": "语言"
+   },
+   "normal": {
+      "message": "标准"
+   },
+   "openInTab": {
+      "message": "在标签中打开"
+   },
+   "optionLanguageHints": {
+      "message": "新的语言选项是在您*下次*搜索时生效。"
+   },
+   "optionShowFeatureArticle": {
+      "message": "启动时显示特色文章（仅在特定的维基百科语言版本中可用）"
+   },
+   "optionTitle": {
+      "message": "Chrome 维基百科伴侣 - 选项"
+   },
+   "options": {
+      "message": "选项"
+   },
+   "pageWidth": {
+      "message": "弹出窗口宽度"
+   },
+   "primaryLanguage": {
+      "message": "第一语言"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "search": {
+      "message": "搜索"
+   },
+   "secondaryLanguage": {
+      "message": "第二语言"
+   },
+   "updateMessage": {
+      "message": "维基百科伴侣更新至 $1 版啦！点此查看更多信息"
+   },
+   "welcomeMessage": {
+      "message": "欢迎使用维基百科伴侣"
+   },
+   "wide": {
+      "message": "宽"
+   }
+}

@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <script src="jquery-1.8.2.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="wiki.css" />
+    </head>
+
+    <body>
+        <div id="update"></div>
+
+        <div id="main">
+            <div id="toolbar">
+                <!-- basic controls -->
+                <div id="toolbar-left">
+                    <div id="clearhistorybutton" class="button"></div>
+                    <div id="backbutton" class="button"></div>
+                    <div id="forwardbutton" class="button"></div>
+                    <input id="searchbox" type="text">
+                    <div id="searchbutton" class="button"></div>
+                </div>
+
+                <!-- langauage, open new windows -->
+                <div id="toolbar-right">
+                    <div id="language" class="button-big"></div>
+                    <div id="openInTab" class="button-big"></div>
+                    <div id="options" class="button-big"></div>
+                </div>
+
+                <!-- welcome message covers the div -->
+                <div id="welcome"></div>
+            </div>
+            <iframe id="wikipage" src="content.html"></iframe>
+        </div>
+    </body>
+
+    <script type="text/javascript" src="wiki.js">
+    </script>
+</html>
+

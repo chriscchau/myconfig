@@ -1,0 +1,1 @@
+$(document).trigger("DOMContentLoaded");localStorage.fontSize?(console.log("Adjust font size"),document.getElementsByTagName("html")[0].style.fontSize=localStorage.fontSize+"em"):document.getElementsByTagName("html")[0].style.fontSize="0.8em";$("#content_0").show();$(".section_heading").click(function(){var a=this.id.replace("section","content");$("#"+a).toggle()});

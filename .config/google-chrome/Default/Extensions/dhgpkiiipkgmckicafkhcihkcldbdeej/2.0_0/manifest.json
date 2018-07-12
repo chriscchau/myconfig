@@ -1,0 +1,26 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon19.png",
+      "default_popup": "wiki.html",
+      "default_title": "Wikipedia Companion"
+   },
+   "content_security_policy": "script-src 'self' https://*.wikipedia.org https://*.wikimedia.org; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDYaP319Fsc5ODEfXgJs0b163fYNdL/K0OQnglAtLbpdOtfOgLQatCHhQh3Kmfs85bGqtCS0sCFUz5UWXaSDwi2+K2nHfBUiir11rG/h61TyhCjXOh4KxtQrGN6Qe1+jweBhXJP/rtc5toauWDKAzK2p+uDQytjkCpFUc9r6AmGXQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "18",
+   "name": "__MSG_extName__",
+   "options_page": "options.html",
+   "permissions": [ "http://*.wikipedia.org/", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0"
+}

@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Gestión de proyectos colaborativos integrada con Google para crear/editar cronogramas y diagramas de Gantt de los proyectos en tiempo real (archivos de MS Project - .mpp)"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Gestión de proyectos Gantter"
+   }
+}

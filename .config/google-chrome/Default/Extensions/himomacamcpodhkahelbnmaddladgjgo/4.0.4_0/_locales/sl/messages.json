@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Z Googlom integrirano sodelovalno vodenje projektov za izdelavo/urejanje projektnih načrtov in gantogramov v realnem času (MS Project .MPP)"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Vodenje projektov Gantter"
+   }
+}

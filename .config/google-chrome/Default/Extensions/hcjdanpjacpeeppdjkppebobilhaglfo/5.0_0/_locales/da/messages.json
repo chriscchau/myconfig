@@ -1,0 +1,42 @@
+{
+   "ex_description": {
+      "description": "Description of the extension",
+      "message": "Indsætter hjemmeside-forhåndsvisninger i Google og Yahoo søgeresultater."
+   },
+   "ex_insert_previews": {
+      "description": "Label for previews checkbox",
+      "message": "Indsæt forhåndsvisningsbilleder i Google og Yahoo søgning"
+   },
+   "ex_insert_ranks": {
+      "description": "Label for popularity ranks checkbox",
+      "message": "Indst side popularitetsrang i søgeresultater: ("
+   },
+   "ex_insert_ranks_sec": {
+      "description": "Second part of label for popularity ranks checkbox",
+      "message": " .. "
+   },
+   "ex_loadingRank": {
+      "description": "Label for loading rank",
+      "message": "Indlæser sidens popularitetsrang..."
+   },
+   "ex_name": {
+      "description": "Name of the extension",
+      "message": "SearchPreview"
+   },
+   "ex_noRank": {
+      "description": "no.site.rank",
+      "message": "Ingen popularitetsrang"
+   },
+   "ex_options": {
+      "description": "Options label",
+      "message": "Indstillinger"
+   },
+   "ex_rank": {
+      "description": "Label for rank",
+      "message": "Sidens popularitetsrang"
+   },
+   "ex_requestupdate": {
+      "description": "Context menu label for requesting an update of a preview image",
+      "message": "Forespørg om opdatering af dette SearchPreview billede"
+   }
+}

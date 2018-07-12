@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Googleに統合された共同プロジェクト管理ツールで、プロジェクトスケジュール & ガントチャートをリアルタイムで作成（MS Project .MPP）"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Gantterプロジェクト管理"
+   }
+}

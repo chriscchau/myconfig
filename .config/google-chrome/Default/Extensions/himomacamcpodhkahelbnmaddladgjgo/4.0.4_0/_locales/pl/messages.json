@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Narzędzie do zespołowego zarządzania projektem zintegrowane z rozwiązaniami Google dla tworzenia/edytowania harmonogramów projektów i wykresów Gantta w czasie rzeczywistym (MS Project .MPP)"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Zarządzanie projektem Gantter"
+   }
+}

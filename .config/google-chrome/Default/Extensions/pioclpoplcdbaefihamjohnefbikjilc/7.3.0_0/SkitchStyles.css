@@ -1,0 +1,26 @@
+html.skitchReady body > *:not(.en-markup-editor):not(#evernoteClipperTools):not(.en-markup-surface):not(.en-markup-layer):not(.en-markup-tool-element-text-editor):not(.en-markup-toolbar-wrapper):not(.en-markup-toolbar-border):not(.skitchVisible):not([src$="pdf"]) {
+  visibility: hidden;
+  display: none; }
+
+html.skitchReady, .sh-tip {
+  box-sizing: initial; }
+  html.skitchReady *, .sh-tip * {
+    box-sizing: initial; }
+
+html.skitchReady body iframe:not(#evernoteClipperTools) {
+  display: none; }
+
+html.skitchReady body {
+  min-width: 100%;
+  min-height: 100%;
+  overflow: hidden;
+  position: fixed; }
+
+html.skitchWaiting body {
+  overflow: hidden; }
+
+html body .en-markup-editor .en-markup-surface .en-markup-crop-options {
+  left: 50%;
+  transform: translateX(-50%);
+  width: 195px;
+  border: 2px rgba(255, 255, 255, 0.38) solid; }

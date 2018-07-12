@@ -1,0 +1,74 @@
+{
+   "clearHistory": {
+      "message": "清除搜尋紀錄"
+   },
+   "copyright1": {
+      "description": "do not translate it",
+      "message": "Wikipedia and logo of Wikipedia are trademarks of Wikimedia Foundation, Inc."
+   },
+   "copyright2": {
+      "description": "do not translate it",
+      "message": "Usage of all Wikipedia content governed by term and conditions of Wikimedia Foundation, Inc."
+   },
+   "copyright3": {
+      "description": "do not translate it",
+      "message": "Extension created by mongolian2010. All rights reserved."
+   },
+   "extDescription": {
+      "message": "任何維基百科用戶都需要的擴展功能。功能包括：儲存搜尋紀錄、多語言、上下頁……還有更多！"
+   },
+   "extName": {
+      "message": "Lookup Companion for Wikipedia"
+   },
+   "goBack": {
+      "message": "上一頁"
+   },
+   "goForward": {
+      "message": "下一頁"
+   },
+   "language": {
+      "message": "語言"
+   },
+   "normal": {
+      "message": "正常"
+   },
+   "openInTab": {
+      "message": "在新分頁打開"
+   },
+   "optionLanguageHints": {
+      "message": "新語言選項將於下次搜尋生效"
+   },
+   "optionShowFeatureArticle": {
+      "message": "在啟動時顯示特色文章 (僅於部分維基百科語言版本適用)"
+   },
+   "optionTitle": {
+      "message": "Wikipedia for Chrome - 選項"
+   },
+   "options": {
+      "message": "選項"
+   },
+   "pageWidth": {
+      "message": "彈出視窗的闊度"
+   },
+   "primaryLanguage": {
+      "message": "第一語文"
+   },
+   "save": {
+      "message": "儲存"
+   },
+   "search": {
+      "message": "搜尋"
+   },
+   "secondaryLanguage": {
+      "message": "第二語文"
+   },
+   "updateMessage": {
+      "message": "維基百科助理已經更新為 $1 版！按此這裡了解更多"
+   },
+   "welcomeMessage": {
+      "message": "歡迎使用維基百科助理"
+   },
+   "wide": {
+      "message": "較闊"
+   }
+}

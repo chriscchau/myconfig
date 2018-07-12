@@ -1,0 +1,21 @@
+{
+   "app": {
+      "launch": {
+         "container": "panel",
+         "height": 768,
+         "web_url": "https://app.gistboxapp.com/",
+         "width": 1200
+      },
+      "urls": [ "https://app.gistboxapp.com/" ]
+   },
+   "description": "The beautiful way to organize code snippets.",
+   "icons": {
+      "128": "chrome-icon-128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCsf4m2Y+3h0fDKJGkh1OCDP/gn58Y9QZxUDFIdNfNFc45em+2fvB6tx4s2sAGUR1VtnH86Erk1c5J/D4m/z5c+UtM6jtTQ8xJhibM0mUxsJFAlw0WnjErpEi2A8ISiAja9O+W69sCJg655mbXGAW+Usxpv8ViXuIF8xO40eKOHwQIDAQAB",
+   "manifest_version": 2,
+   "name": "GistBox",
+   "permissions": [ "unlimitedStorage", "clipboardWrite" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

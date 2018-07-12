@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Google 集成协作项目管理实时创建/编辑项目时间表和Gantter图（MS Project .MPP）"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Gantter 项目管理"
+   }
+}

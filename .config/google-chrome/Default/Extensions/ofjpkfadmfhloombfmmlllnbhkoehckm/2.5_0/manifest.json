@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://my.bookmax.net"
+      },
+      "urls": [ "https://my.bookmax.net/" ]
+   },
+   "description": "Bookmax - Online Bookmark Manager. Saving and Sharing Bookmarks and other data.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCluumekp/NqvswK11FZFlqAOuFp6DfnOk+U0Bdp2Y2hBROqimpSi0TvksiS71TkKeQDHRLPVU7YEsVvRM2z/clJZlf4daWruyg8Slyml6BqPdrMHa2Ud7SFEYkcqDg6qaNhO9vv989aota1jS697QXrmNTAlf62/WaKrlOpzBkoQIDAQAB",
+   "manifest_version": 2,
+   "name": "Bookmax - Online Bookmark Manager",
+   "short_name": "Bookmax",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.5"
+}

@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Gestione di progetti collaborativi integrati in Google per creare/modificare piani di progetti e diagrammi di Gantt in tempo reale (file .MPP di Microsoft Project)"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Gestione di progetti Gantter"
+   }
+}

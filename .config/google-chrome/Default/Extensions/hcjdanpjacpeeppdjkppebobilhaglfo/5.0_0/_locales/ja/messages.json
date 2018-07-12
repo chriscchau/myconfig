@@ -1,0 +1,42 @@
+{
+   "ex_description": {
+      "description": "Description of the extension",
+      "message": "Google と Yahoo! の検索結果にウェブサイトのプレビューを挿入します。"
+   },
+   "ex_insert_previews": {
+      "description": "Label for previews checkbox",
+      "message": "Google と Yahoo! の検索へプレビュー画像を挿入する"
+   },
+   "ex_insert_ranks": {
+      "description": "Label for popularity ranks checkbox",
+      "message": "検索結果の中にサイト人気ランクを挿入: ("
+   },
+   "ex_insert_ranks_sec": {
+      "description": "Second part of label for popularity ranks checkbox",
+      "message": " .. "
+   },
+   "ex_loadingRank": {
+      "description": "Label for loading rank",
+      "message": "サイト人気ランクを読み込み中..."
+   },
+   "ex_name": {
+      "description": "Name of the extension",
+      "message": "SearchPreview"
+   },
+   "ex_noRank": {
+      "description": "no.site.rank",
+      "message": "人気ランクなし"
+   },
+   "ex_options": {
+      "description": "Options label",
+      "message": "オプション"
+   },
+   "ex_rank": {
+      "description": "Label for rank",
+      "message": "サイト人気ランク"
+   },
+   "ex_requestupdate": {
+      "description": "Context menu label for requesting an update of a preview image",
+      "message": "この SearchPreview 画像の更新を要求"
+   }
+}
